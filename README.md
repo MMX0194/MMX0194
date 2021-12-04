@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ruby
 - 👯 I’m looking to collaborate on youtube
 - 💬 Ask me about Python or Cpython
-- 📫 How to reach me: [instagram](https://www.instagram.com/mehemmedaliyevsoftware/)
+📫 How to reach me: [instagram](https://www.instagram.com/mehemmedaliyevsoftware/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
